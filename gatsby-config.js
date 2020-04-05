@@ -3,7 +3,7 @@ module.exports = {
     title: `My journal`,
     author: {
       name: `Kimotho Kamau`,
-      summary: `who writes on what he finds useful and interesting.`,
+      summary: `A finance geek who writes about bitcoin, and modern web development. Background: 5 years of experience building bleeding-edge VoIP, video conferencing and call centers`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
