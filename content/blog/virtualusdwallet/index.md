@@ -54,18 +54,81 @@ While there are several ways of having a bitcoin-backed USD wallet, this guide w
 
 
 
-### Alternative methods of buying USD
+## Comparison of bitcon backed USD wallet vs Forex vs Banks
 
-- Visit a Forex Bureau and exchange your local currency for USD. During the current pandemic, it is not advisable to handle cash. So this method puts your health at risk
-- If you hold a local currency and USD account at your bank, call or visit your nearest branch and initiate the forex transfer. If you have activate online banking for both accounts then you can do the transaction from home
-- Visit your bank and open a USD account, also remember to activate online banking service for both of your accounts. Again, its not the best time to be visiting banking halls due to the current pandemic. 
-- As the lockdown continues, most forex bureaus and banks branches will close and offer services through ATM/mobile banking/internet banking services
-- The **KEY ADVANTAGE** of a bitcoin-backed USD wallet is now eviedent since it is entirely virtual, minimum KYC is required and th market operates 24/7 
+Three criteria are considered while comparing the best USD wallet:
 
++ Cost
++ Process
++ Availability/convenience
+
+
+### Cost -Rates/Spread
+
+The difference between the selling price and buying price of USDKES. The lower it is the better. Lower spread means there is less volatility since there is alot of willing buyers and sellers competing away till the spread becomes thin.
+
+   + **Banks:** 
+        + Very high. On April 3rd 2020, one of the local banks was selling the dollar at 109, while buying at 99. That is a 99/109 * 100 = **10.10%**
+        + If you buy dollars at a bank today, if you want to sell them the next day, you will make a 10% loss of your money. For you to sell the dollars at a profit you would have to wait for the shilling to increase considerably for you to just break even
+        + The non $100 notes are shunned and are bought below market rate
+   + **Forex**
+        + High. On April 3rd 2020, one local forex bureau was selling dollar at 107, while buying at 100. That is a 7/100 * 100 = **7%**
+        + If you bought dollars at a forex bureau today, if you want to sell them the next day, you will make a 7% loss on your money. The dollar needs to rise by more than 7% for you to breakeven.
+        + The non $100 notes are shunned and are bought below market rate
+   + **Bitcoin**
+        + Low. On April 3rd 2020, the cheapest bitcoin seller was selling at a rate of ksh. 764,000 per bitcoin while the highest buyer was buying at 752,000. Spread was (764000-752000) /752000 * 100 = **1.6%** 
+
+### Process of getting dollar exposure and getting back to KSH
+
+This criteria looks at the steps it takes to get dollar exposure and back to KSH  
++ **Banks:**
+    +  Open USD and KSH accounts in a bank, activate online banking for both of them. Do forex ebtween the two accounts
+    +  Withdraw ksh in one bank account, and buy USD Over the Counter(OTC) or walk in different bank (may be with lower USDKSH) still OTC
++ **Forex:**
+    +  Walk in with local currency cash and buy physical dolllar bill
+    +  Require national ID or passport
+
+- **Bitcoin:**
+    +  Open accounts at bitcoin exchanges
+    +  Buy bitcoin ,tether(USDT) using exchange interface
+    +  Online transactions
+
+
+### Availability
+
+A measure of convenience:
+
++ **Banks:**
+    +  Online banking works 24/7. But you will use the provided rate which has 9-11% spread
+    +  If you want a better rate it has to be within working hours so that you speak to a treasury bank staff to negotiate a better rate
+    +  Other option is to walk in the banking hall within workin hours
+
++ **Forex**
+    + The least convenient. Most work within working hours
+    + Cash only
+    + No online option. You need to be there
+    + They have not yet solved the virtual/wallet/online problem yet
+
++ **Bitcoin**
+    + The most convenient
+    + Available 24/7 and 100% online
+    + No physical cash trades
+    + 24/7 access to USD wallet that you can liquidate any time
+    + Since wallets are online, it can work on any phone, or computer device
+
+        
 
 ### End to end process of moving from local currency (KSH) to bitcoin, to USD and back to local currency(KSH)
 
-I have broken down the process into 9 different posts. Post 1, 2 and 7 are done only once during initial setup. Then the rest are done at different times based on what you want to achieve, but are dependent on some things to have been done earlier, for example; _you can't buy tether(USDT) without having bitcoin or ethereum in the first place_ hence the the posts are numbered in the following order of operations:
+I have broken down this [process](/ Open accounts at bitcoin exchanges
+        +  Buy bitcoin ,tether(USDT) using exchange interface
+        +  Online transactions) into 9 different posts. 
+        
+Post 1, 2 and 7 are done only once during initial setup. 
+
+Then the rest are done at different times based on what you want to achieve, but are dependent on some things to have been done earlier, for example; _you can't buy tether(USDT) without having bitcoin or ethereum in the first place_ 
+
+The posts are listed below in their order of operations:
 
 
 1.  Sign up for a localbitcoins account [click here](/signup-lbc)
@@ -77,7 +140,3 @@ I have broken down the process into 9 different posts. Post 1, 2 and 7 are done 
 7.  Enable 2 Factor Authentication for your binance account [click here](/binance-2fa)
 8.  Withdraw bitcoin from binance and send to localbitcoins [click here](sendbtc-to-lbc)
 9.  Sell the bitcoin back to your local currency [click here](/sellbtc-ksh)
-
-
-
-
