@@ -1,7 +1,7 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: What is Bitcoin
+date: "2020-03-20T22:12:03.284Z"
+description: "A description of bitcoin, its origins, why it was created, what makes it a great investment plus anything you ever wanted to know but was afraid to ask"
 ---
 
 This is my first post on my new fake blog! How exciting!
