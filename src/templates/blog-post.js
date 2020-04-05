@@ -5,11 +5,22 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+import { DiscussionEmbed } from 'disqus-react' 
+import Disqus from 'disqus-react';
+
+
+
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
+  const disqusShortname = "kimothokamau-xyz";
+  const disqusConfig = {
+
+      identifier: post.id,
+      title: post.frontmatter.title,
+      };
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -44,6 +55,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
           }}
         />
         <footer>
+          <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
           <Bio />
         </footer>
         

@@ -1,7 +1,5 @@
 import Typography from "typography"
 import Wordpress2016 from "typography-theme-wordpress-2016"
-import funstonTheme from 'typography-theme-funston'
-import bootstrapTheme from 'typography-theme-bootstrap'
 import githubTheme from 'typography-theme-github'
 
 
