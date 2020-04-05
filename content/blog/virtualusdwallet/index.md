@@ -41,6 +41,7 @@ It is difficult to predict when the pandemic will be over and things get back to
 Hence the need to spread your risk among assets that may hold their value more strongly, are **100% online** and have enough liquidity to get in and out. In my opinion that is; USD, gold and bitcoin.
 
 
+
 ### How the 'bitcoin-backed' USD wallet works
 
 While there are several ways of having a bitcoin-backed USD wallet, this guide will use **Tether (USDT)**:
