@@ -1,7 +1,7 @@
 ---
 title: How to open a USD wallet backed by bitcoin
-date: "2020-03-23T22:40:32.169Z"
-description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. It alllows you to virtually move between your local currency and the USD with the least loss(slippage). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
+date: "2020-04-06T22:40:32.169Z"
+description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. For the rest of these guides, I will refer to this stablecoin as Tether(USDT). Bitcoin alllows you to virtually move between your local currency and the USD with the least loss(spread). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
 ---
 ## Introduction
 
@@ -9,11 +9,9 @@ By now you have probably heard about 'bitcoin' and despite its many advantages o
 
 >But, what if you could use bitcoin without being affected by its volatility?? 
 
-This series of posts show you how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether(USDT). It alllows you to virtually move between your local currency and the USD with the least loss(slippage). 
+This series of posts show you how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether(USDT). It alllows you to virtually move between your local currency and the USD with the least loss [spread](/virtualusdwallet/#Cost--RatesSpread). 
 
-The closest alternative is using online banking to buy USD bank you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. 
-
->The same technology can be applied to buying gold (XAUT)
+In the [comparison](/virtualusdwallet/#Comparison-of-bitcon-backed-USD-wallet-vs-Forex-vs-Banks) section I show why using bitcoin is the fastest, cheapest and most convinient way to get dollar exposure. Or even gold exposure! [link](/buy-gold-xaut)
 
 Bitcoin is used in the middle between your local currency USD. See flowchart below:
 
