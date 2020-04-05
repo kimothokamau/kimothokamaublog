@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `My journal`,
+    title: `A bitcoin handbook`,
     author: {
       name: `Kimotho Kamau`,
-      summary: `A finance geek who writes about bitcoin, and modern web development. Background: 5 years of experience building bleeding-edge VoIP, video conferencing and call centers`,
+      summary: `A finance geek who writes about bitcoin, web development. Previously building VoIP, video, conference and call centers for enterprises`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,

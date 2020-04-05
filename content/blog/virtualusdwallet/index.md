@@ -1,10 +1,17 @@
 ---
 title: How to open a USD wallet backed by bitcoin
 date: "2020-03-23T22:40:32.169Z"
-description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, allowing you to flexibly move between your local currency and the USD with minimal cost.  
+description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. It alllows you to virtually move between your local currency and the USD with the least loss(slippage). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
 ---
+## Introduction
 
-By now you have probably heard about 'bitcoin' and despite its many advantages over other forms of assets and money everyone agrees that bitcoin is highly volatile. This guide shows how its possible to use bitcoin to hold USD stable value such that you don't get affected by volatility.
+By now you have probably heard about 'bitcoin' and despite its many advantages over other forms of assets and money everyone agrees that bitcoin is highly volatile. What if you could use bitcoin without being affected by its volatility?? 
+This series of posts show you how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether(USDT). It alllows you to virtually move between your local currency and the USD with the least loss(slippage). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to buying other assets like gold through online-only transactions and wallets. 
+
+Bitcoin is used in the middle between your local currency and cash, enabling you to move in and out of the USD 24/7, online and with the least cost as compared to using banks and Forex Bureaus.
+
+
+
 Among its many usecases is the fact that it can be used to have exposure to USD without having to actually own USD (physical notes or a USD bank account). This basically means that it is the fastest way to ensure your savings retain their USD value.
 
 ## Why you may need a USD Wallet
