@@ -1,7 +1,7 @@
 ---
 title: How to open a USD wallet backed by bitcoin
 date: "2020-04-06T22:40:32.169Z"
-description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. For the rest of these guides, I will refer to this stablecoin as Tether(USDT). Bitcoin alllows you to virtually move between your local currency and the USD with the least loss(spread). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
+description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. For the rest of these guides, I will refer to this stablecoin as Tether(USDT). Bitcoin allows you to virtually move between your local currency and the USD with the least loss(spread). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
 ---
 ## Introduction
 
@@ -11,7 +11,7 @@ By now you have probably heard about 'bitcoin' and despite its many advantages o
 
 This series of posts show you how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether(USDT). It alllows you to virtually move between your local currency and the USD with the least loss [spread](/virtualusdwallet/#Cost--RatesSpread). 
 
-In the [comparison](/virtualusdwallet/#Comparison-of-bitcon-backed-USD-wallet-vs-Forex-vs-Banks) section I show why using bitcoin is the fastest, cheapest and most convinient way to get dollar exposure. Or even gold exposure! [link](/buy-gold-xaut)
+In the [comparison](/virtualusdwallet/#Comparison-of-bitcon-backed-USD-wallet-vs-Forex-vs-Banks) section I show why using bitcoin is the fastest, cheapest and most convenient way to get dollar exposure. Or even gold exposure! [link](/buy-gold-xaut)
 
 Bitcoin is used in the middle between your local currency USD. See flowchart below:
 
@@ -21,9 +21,9 @@ Bitcoin is used in the middle between your local currency USD. See flowchart bel
 
 ## Why you need a USD Wallet
 
-During global uncertainity like the current COVID19 pandemic in 2020, it is a good idea to diversify your cash savings in USD, gold or bitcoin just incase your local currency loses value against the dollar.
+During global uncertanity like the current COVID19 pandemic in 2020, it is a good idea to diversify your cash savings in USD, gold or bitcoin just incase your local currency loses value against the dollar.
 
-The chart below shows the performance of the USD against the Kenya shilling since 2002. It is clear that the shilling has been losing its value against the dollar for the last 30 years. Open chart below and observe how it happened during the 2008 financial crisis and the shillign has never gone back to the 60s level ever.
+The chart below shows the performance of the USD against the Kenya shilling since 2002. It is clear that the shilling has been losing its value against the dollar for the last 30 years. Open chart below and observe how it happened during the 2008 financial crisis and the shilling has never gone back to the 60s level ever.
 > Fyi: During president's Kibaki first term in 2002, he managed to strengthen the shilling from 80s to 60s !!
 
 ![USD/KES 2002-2020](./usdksh 2002-2020.png)
@@ -47,12 +47,12 @@ While there are several ways of having a bitcoin-backed USD wallet, this guide w
 - You buy bitcoin, then use the bitcoin to buy tether. 
 - [Tether](https://tether.to/?__cf_chl_jschl_tk__=353ac175af32529c8a92bc392f6a83ba906a0fc8-1585642069-0-AYxII_WswTRtQwiOW0UMtQqwaZnvS2KHCMDqqB5M_zgyUtQRW9UjmLafMEW1666Gr5hs7o_MmejJDCUCzq0CPJWZ3ZEJpo_dbxY0No6Q8Le379uSvm01AAHHhBnDo7mGQs2vTqvoCAZEwnbnouG6rfHb6plGg5o6cJA0zSUY3kcGptnUA2kE2IFtoH5fWLFYxr-eJsn7LoHlWVc9I7Mwg8uUAe8kOvSNR9lV2FQ4CRzZojmcSAhNtw8jChWFW_lVD8aw0AZ86DTE6g4TwBXwIuQ) is a cryptocurrency whose value is equal to the value of USD. Hence **1 Tether = 1 USD** thus 100 USDT can be redeemed for 100 USD and so forth
 - When you want to cash out some USD to your local currency, you sell the equivalent tether/USDT to bitcoin, then sell the bitcoin back to your local currency. 
-- Every country has independent traders who buy and sell bitcoin in exchange for local currency 24/7, so bitcoin -> local currency liquidity is guranteed
+- Every country has independent traders who buy and sell bitcoin in exchange for local currency 24/7, so bitcoin -> local currency liquidity is guaranteed
 
 
 
 
-## Comparison of bitcon backed USD wallet vs Forex vs Banks
+## Comparison of bitcoin backed USD wallet vs Forex vs Banks
 
 Three criteria are considered while comparing the best USD wallet:
 
@@ -63,7 +63,7 @@ Three criteria are considered while comparing the best USD wallet:
 
 ### Cost -Rates/Spread
 
-The difference between the selling price and buying price of USDKES. The lower it is the better. Lower spread means there is less volatility since there is alot of willing buyers and sellers competing away till the spread becomes thin.
+The difference between the selling price and buying price of USDKES. The lower it is the better. Lower spread means there is less volatility since there is enough willing buyers and sellers competing away till the spread becomes thin.
 
    + **Banks:** 
         + Very high. On April 3rd 2020, one of the local banks was selling the dollar at 109, while buying at 99. That is a 99/109 * 100 = **10.10%**
@@ -80,10 +80,10 @@ The difference between the selling price and buying price of USDKES. The lower i
 
 This criteria looks at the steps it takes to get dollar exposure and back to KSH  
 + **Banks:**
-    +  Open USD and KSH accounts in a bank, activate online banking for both of them. Do forex ebtween the two accounts
-    +  Withdraw ksh in one bank account, and buy USD Over the Counter(OTC) or walk in different bank (may be with lower USDKSH) still OTC
+    +  Open USD and KSH accounts in a bank, activate online banking for both of them. Do forex between the two accounts
+    +  Withdraw ksh in one bank account, and buy USD Over the Counter(OTC) at same bank, or walk in different bank (may be with lower USDKSH rate) and buy there Over The Counter
 + **Forex:**
-    +  Walk in with local currency cash and buy physical dolllar bill
+    +  Walk in with local currency cash and buy physical dollars
     +  Require national ID or passport
 
 - **Bitcoin:**
@@ -99,7 +99,7 @@ A measure of convenience:
 + **Banks:**
     +  Online banking works 24/7. But you will use the provided rate which has 9-11% spread
     +  If you want a better rate it has to be within working hours so that you speak to a treasury bank staff to negotiate a better rate
-    +  Other option is to walk in the banking hall within workin hours
+    +  Other option is to walk in the banking hall within working hours
 
 + **Forex**
     + The least convenient. Most work within working hours

@@ -1,6 +1,6 @@
 ---
 title: How to store bitcoin
-date: "2020-03-22T22:40:32.169Z"
+date: "2020-03-23T22:40:32.169Z"
 description: This is a deep-dive into why you need to store your bitcoins securely, then factors to consider while choosing among the many different bitcoin wallets
 ---
 

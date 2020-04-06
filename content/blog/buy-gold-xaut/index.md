@@ -17,4 +17,8 @@ There are several ways of owning gold:
 
   ### How the crypto-backed gold works
 
-Writing on this soon !!
+Each Tether Gold (XAU₮) token represents ownership of one troy fine ounce of physical gold on a specific gold bar safely held in a Switzerland vault.
+
+When you buy Tether Gold tokens, and the price of gold increases relative to the USD or your local currency, then you can sell your Tether Gold tokens at a profit.
+
+

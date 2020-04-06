@@ -17,13 +17,15 @@ If not, start with this guides:
 
 ## What is Tether?
 
-What is tether? It is a stable currency that mirrors the value of the US dollar. Every tether is 1-to-1 pegged to the dollar, meaning that you can always sell 1 tether for 1 USD.
+What is tether? It is a stable currency that mirrors the value of the US dollar. Every tether is 1-to-1 pegged to the dollar, meaning that you can always sell 1 tether for 1 USD. Read more about tether [here](/https://tether.to/)
 
 Tethers are created when USD cash is deposited to a bank account, and destroyed when tether is redemmed for USD cash. Tether was created to faclitate movement of USD from one cryptocurrency exchange to another instead of relying on the slow traditional banking industry to move USD from one bank to another. On average, a SWIFT(international banking) transaction or famously called wire transfer takes 3-7 days depending on the banks.
 
 Tether allowed traders to swiftly move USD across exchanges fast enough so they can do their trades, so that only the net **final settlement** of tether-cash would be done by large exchanges (Bitfinex) using specific banks. 
 
 > Most banks do not support crytocurrency businesses. SOme banks have flagged wire transfers to most known exchanges. So tether is a workaround to circumvent that restriction
+
+Recently, tether gold was introduced. I discuss it [here](/buy-gold-xaut)
 
 At the moment(April 2020) The market capitalization of tether is 6.176B and there are 6.166 billion tether in circulation. Data from [coinmarketcap](/https://coinmarketcap.com/)
 
@@ -77,8 +79,6 @@ Click the BTC/USDT market as shown in above screenshot
 ### Step 3 - Selling bitcoin and buying tether
 This page shows the order book, on the left/green side are limit buy orders and on the right/red side are the limit sell orders.
 Click the red **Sell** button since we want to sell bitcoins and get tether (USDT).
-
-
 
 
 ![sell bitcoin for tether](./click-sell.jpg)

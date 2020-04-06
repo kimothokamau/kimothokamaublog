@@ -1,21 +1,26 @@
 ---
 title: How to open a binance account
-date: "2020-03-31T22:40:32.169Z"
+date: "2020-03-24T22:40:32.169Z"
 description: This is a guide on how to open a binance account. A binance account is required when you want to buy tether(bitcoin-backed USD) or when you want to buy other cryptocurrencies.
 ---
 
-As of 2020 March when I'm writing this, [binance](https://www.binance.com/en/register?ref=19683719) is the biggest cryptocurrency exchange. Has only been hacked once, and the users affected were refunded immediately. It also has a very friendly user interface, which is one of the reasons that binance was able to rise in poularity since it was launched in 2017. It is for the above reasons that I recommend it for specific usecases.
+## Introduction
+
+As of 2020 March when I'm writing this, [binance](https://www.binance.com/en/register?ref=19683719) is the biggest cryptocurrency exchange. Has only been hacked once, and the users affected were refunded immediately. It also has a very friendly user interface, which is one of the reasons that binance enabled binance to the top 1 exchange shortly after it was launched in 2017. It is for the above reasons that I recommend it for specific usecases.
 
 This guide simply shows how to signup for an account.
-Note that the screenshots are combined to make the post more readable. Each image represents two different screenshots.
+Note that some of the screenshots are combined.
 
-### Step 1
+It also assumes that:
++ You have an email account that you can easily access. Preferably on the same device you are using to open this binance account
 
-Click the link below to be redirected to [binance](https://www.binance.com/en/register?ref=MMCI8T8U)
+### Step 1 - Start the signup process
 
-You should see below, the 5% kickback commission rate is the trading fees discount you get by using my affiliate link. 
+Click [here](https://www.binance.com/en/register?ref=MMCI8T8U) to be redirected to binance
 
-Enter your email and password twice. The password should be at least 8 characters, contain UPPERCASE, Lowercase and digits.
+>the 5% kickback commission rate is the trading fees discount you get while making each trade and I also get some commission when you make a trade, which helps me to keep this site up. Thanks :)
+
+Enter your email, then password twice. The password should be at least 8 characters, contain UPPERCASE, Lowercase and digits.
 
 ![signup-binance](./signup.png)
 
@@ -30,9 +35,9 @@ After sliding to complete the puzzle you will get two notifications as shown bel
 
 ### Step 3
 
-Open your email, check new email in your inbox from 'binance'. If you see no email just check in your spam folder.
+Open your email, check new email in your inbox from 'binance'. If you see no email, check your spam folder.
 
-Below screenshots show how the email looks like. After clicking the orange **Confirm Registration** button, your account will be verified and you will see the **Succeed** notification that confirms your account is verified and ready to log in
+Below screenshots show how the email looks like. After clicking the orange **Confirm Registration** button, your account will be verified and you will see the **Succeed** notification whcih confirms that your account is verified and ready to log in
 
 ![click confirmation link](./click-link.png)
 
@@ -74,7 +79,7 @@ Screenshots below show how to enter the verification code and how your account s
 
 ![login verification](./login-verif.png)
 
-If you see your email as shown in the last screenshot. That is; with just a few characters, know that you have :
+If you see your Account page looking like the right image in the last screenshot above,  know that you have :
 - Successfully opened a binance account
 - Successfully installed the binance mobile app
 - Successfully logged in
