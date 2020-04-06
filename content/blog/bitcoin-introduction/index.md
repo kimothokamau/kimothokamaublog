@@ -39,6 +39,8 @@ A compilation of literature that supports the idea of bitcoin from a cryptograph
 
 A compilation of articles that were written from 2012. They are highly vetted and new articles go through rigorous brainstorming before they are allowed here. [click here](/https://nakamotoinstitute.org/mempool)
 
+It took me almost two months to go through all of this section, and by the time I finished I realized that the idea of bitcoin resonated with my inner self, and that it would make the life of every person better when it replaces our current monetary system. I got a strong conviction to leave my telecoms career and focus my efforts on building the bitcoin infrastrucuture and educating the people around me. 
+
 ### History of bitcoin
 
 Bitcoin did not just come from nowhere. See the motivations behind it and the efforts that were done from the 1970s till its inception.
