@@ -6,18 +6,25 @@ description: "A description of bitcoin, its origins, why it was created, how it 
 
 ## Introduction
 
-I have not yet written my own introduction of bitcoin. 
-
-But I will list some of the most important material about bitcoin here, then you can start going down the rabbit hole.
+The question of what is bitcoin has been answered before and by more prolific writers. My idea is that rather than re-inventing the wheel, I can just point you to the best resources that answer this question.
 
 ### Tell me EVERYTHING!!
 
-This is a compilation of everything happenign around the bitcoin space.It can be overwhelming, but just start somewhere
+This is a compilation of everything you may want to know in the bitcoin space.It can be overwhelming, but just start somewhere you think intersts you. 
+
+There is various sections, some for scholars, investors, software developers, techincal information, miners, traders, analysts looking for data, blockchain...etc etc
 
 [lopp.net](/https://www.lopp.net/bitcoin-information.html)
 
 
 ### The investment case for bitcoin
+
+This answers these questions:
+ -  Why bitcoin has value? 
+ -  Why its value has increased from 0 to $7000 as of today (April 6th) *Implement a fetch to query real-time price**
+ -  Why will it keep increasing for the next forseable future?
+ -  What is money? And what stages does money go through before it finally gets dopted by everyone?
+ -  The properties of bitcoin that makes it the best money ever in history 
 
 [Pierre Rcohard's medium article](/https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b)
 
@@ -26,11 +33,11 @@ This is a compilation of everything happenign around the bitcoin space.It can be
 
 ### Best of the Best: The compltete Satoshi
 
-This is for hose who realllly want to go down the rabbit hole, read satoshi's first announcement of bitcoin in a mailing list, see the first critics and how he graciously responded to their questions.
+To read Satoshi's first announcement of bitcoin in a cryptography mailing list/forum, read thw whitepaper, see the first critics and how he graciously responded to their questions. [The Complete Satoshi](/https://satoshi.nakamotoinstitute.org/)
 
-Then read the highest quality posts. Most were written in 2013-2016
+A compilation of literature that supports the idea of bitcoin from a cryptography and freedome point of view [click here](/https://nakamotoinstitute.org/literature/)
 
-[The Complete Satoshi](/https://satoshi.nakamotoinstitute.org/)
+A compilation of articles that were written from 2012. They are highly vetted and new articles go through rigorous brainstorming before they are allowed here. [click here](/https://nakamotoinstitute.org/mempool)
 
 ### History of bitcoin
 
@@ -40,6 +47,8 @@ Here you'll see stories of the cypherpunks and cryptoanarchy ideas. [histoy of b
 
 
 ### Still under construction !!!
+
+I will keep adding to this post, as my ideas continue fermenting. Feel free to ask any question in the comments section.
 
 
 
