@@ -18,7 +18,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext
   const disqusShortname = "kimothokamau-xyz";
   const disqusConfig = {
-    url: `http://www.kimothokamau.xyz${this.props.location.pathname}`,
+    url: `http://www.kimothokamau.xyz$.{pathname}`,
     identifier: post.id,
       title: post.frontmatter.title,
       };
