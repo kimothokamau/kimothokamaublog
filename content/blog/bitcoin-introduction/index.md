@@ -1,7 +1,7 @@
 ---
 title: What is Bitcoin
 date: "2020-03-20T22:12:03.284Z"
-description: "A description of bitcoin, its origins, why it was created, how it works, what makes it a great investment, where to go for more information, the industries emerging around bitcoin and cryptocurrencies. Plus use the comment section to ask anything you ever wanted to know but was afraid to ask"
+description: "A compilation of resources that answers every question about bitcoin, its origins, why it was created, how it works, what makes it a great investment and where to go for more information. Plus use the comment section to ask anything you ever wanted to know but was afraid to ask"
 ---
 
 ## Introduction
@@ -10,26 +10,24 @@ The question of what is bitcoin has been answered before and by more prolific wr
 
 ### Tell me EVERYTHING!!
 
-This is a compilation of everything you may want to know in the bitcoin space.It can be overwhelming, but just start somewhere you think intersts you. 
+This [link](/https://www.lopp.net/bitcoin-information.html) takes you to a compilation of everything you may want to know in the bitcoin space.It can be overwhelming, but just start somewhere you think intersts you. 
 
 There is various sections, some for scholars, investors, software developers, techincal information, miners, traders, analysts looking for data, blockchain...etc etc
-
-[lopp.net](/https://www.lopp.net/bitcoin-information.html)
 
 
 ### The investment case for bitcoin
 
-This answers these questions:
+This two articles 
+[Pierre Rcohard's medium article](/https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b)
+
+[Vijay Boyapati's medium article](/https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+
+Answer these questions:
  -  Why bitcoin has value? 
  -  Why its value has increased from 0 to $7000 as of today (April 6th) *Implement a fetch to query real-time price**
  -  Why will it keep increasing for the next forseable future?
  -  What is money? And what stages does money go through before it finally gets dopted by everyone?
  -  The properties of bitcoin that makes it the best money ever in history 
-
-[Pierre Rcohard's medium article](/https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b)
-
-[Vijay Boyapati's medium article](/https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
-
 
 ### Best of the Best: The compltete Satoshi
 
@@ -39,7 +37,7 @@ A compilation of literature that supports the idea of bitcoin from a cryptograph
 
 A compilation of articles that were written from 2012. They are highly vetted and new articles go through rigorous brainstorming before they are allowed here. [click here](/https://nakamotoinstitute.org/mempool)
 
-It took me almost two months to go through all of this section, and by the time I finished I realized that the idea of bitcoin resonated with my inner self, and that it would make the life of every person better when it replaces our current monetary system. I got a strong conviction to leave my telecoms career and focus my efforts on building the bitcoin infrastrucuture and educating the people around me. 
+>It took me almost two months to go through all of this section, and by the time I finished I realized that the idea of bitcoin resonated with my inner self, and that it would make the life of every person better when it replaces our current monetary system. I got a strong conviction to leave my telecoms career and focus my efforts on building the bitcoin infrastrucuture and educating the people around me. 
 
 ### History of bitcoin
 
