@@ -14,7 +14,7 @@ This guide can be used independently but it is part of the [How to open a USD wa
 -    You have bitcoin in your binance wallet
 -    You have a localbitcoins account
 
-However, anyone trying to setup 2FA for any account can follow it since the concepts are exaclty the same. Only the exchange interface wil lbe different.
+However, anyone trying to setup 2FA for any account can follow it since the concepts are exactly the same. Only the exchange interface will be different.
 
 
 If not, start with this guides: 
@@ -59,7 +59,7 @@ If not, start with this guides:
 
 ![login to binance web](./login-web.jpg)
 
-- At the top right, you should see the the first two letters of your email circled. Click it and click the first option which is **Security** , as per the screenshot below:
+- At the top right, you should see the first two letters of your email circled. Click it and click the first option which is **Security** , as per the screenshot below:
 
 ![profile security](./profile-security.jpg)
 
@@ -79,10 +79,10 @@ If not, start with this guides:
 
 ![download app](./playstore1.jpg)
 
-- If you are doing this from laptop/desktop browser, then search the **Google Authenticator** app in your phone's App Store or Play STore. 
+- If you are doing this from laptop/desktop browser, then search the **Google Authenticator** app in your phone's App Store or Play Store. 
 
 
-### Step 3 - Setup the Google Authenticator app
+### Step 4 - Setup the Google Authenticator app
 > After enabling 2FA on your account, each time you login, or make a withdrawal, you will be required to enter your password, and a 6-digit fresh code that you get from this app. Codes can't be reused
 
 - Open the **Google Authenticator** app. 
@@ -98,12 +98,12 @@ If not, start with this guides:
 
 ![copy-type-code](./copy-type-code1.jpg)
 
-- Go back to the binance (web browser and not mobile app) security settings and click **Next** to go to Step 3, where you are advised to write the code on a piece of paper and store it somewhere safe. You will need this code to setup Google Authenticator 2FA on a new phone incase you change phones for whatever reason.
+- Go back to the binance (web browser and not mobile app) security settings and click **Next** to go to Step 3, where you are advised to write the code on a piece of paper and store it somewhere safe. You will need this code to setup Google Authenticator 2FA on a new phone in case you change phones for whatever reason.
 
 - Click **Next** to go to the last step. 
 - Open the **Google Authenticator** app and copy the 6 digit code you see. See screenshot below 
->Note that the 6-digit code changes after a few seconds. You need to enter it and click sumbit before it expires
-- Enter your binance password and the 6 digit code that you got from previous step. See screenshot below
+>Note that the 6-digit code changes after a few seconds. You need to enter it and click submit before it expires
+- Enter your binance password and the 6 digit code that you got from the previous step. See screenshot below
 - Click **Submit**. If everything is correct, then you will get a green **Success** alert message at the top right
 
 ![first2fa code](./first2facode.jpg)

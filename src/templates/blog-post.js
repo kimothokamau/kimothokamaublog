@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
+
 import { DiscussionEmbed } from 'disqus-react' 
 import Disqus from 'disqus-react';
 
@@ -17,8 +18,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const { previous, next } = pageContext
   const disqusShortname = "kimothokamau-xyz";
   const disqusConfig = {
-
-      identifier: post.id,
+    url: `http://www.kimothokamau.xyz${this.props.location.pathname}`,
+    identifier: post.id,
       title: post.frontmatter.title,
       };
 
