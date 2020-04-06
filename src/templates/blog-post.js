@@ -7,7 +7,8 @@ import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
 import { DiscussionEmbed } from 'disqus-react' 
-import Disqus from 'disqus-react';
+import Disqus from 'gatsby-plugin-disqus'
+import CommentCount from 'gatsby-plugin-disqus'
 
 
 
@@ -19,6 +20,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const disqusShortname = "kimothokamau-xyz";
   const disqusConfig = {
     url: `http://www.kimothokamau.xyz$.{pathname}`,
+    // url: `${config.siteUrl+location.pathname}`,
     identifier: post.id,
       title: post.frontmatter.title,
       };
@@ -55,8 +57,11 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             marginBottom: rhythm(1),
           }}
         />
+        
         <footer>
-          <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+        <CommentCount config={disqusConfig} placeholder={'...'} />
+           <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+        <Disqus config={disqusConfig} />
           <Bio />
         </footer>
         

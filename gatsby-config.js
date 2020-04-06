@@ -3,13 +3,13 @@ module.exports = {
     title: `A bitcoin handbook`,
     author: {
       name: `Kimotho Kamau`,
-      summary: `I write on how to use bitcoin for savings & investment and web development. Previously built VoIP, video, conference and call centers for enterprises. Reach me at kimothokamau@gmail.com`,
+      summary: `I write on how to use bitcoin for savings & investment and web development. Previously built telephony, video-conference and call center systems for enterprises. Reach me at kimothokamau@gmail.com`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
-    // social: {
-    //   twitter: `kimothokk`,
-    // },
+    social: {
+      twitter: `kimothokk`,
+    },
   },
   plugins: [
     {
