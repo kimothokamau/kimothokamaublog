@@ -7,8 +7,6 @@ import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
 
 import { DiscussionEmbed } from 'disqus-react' 
-import Disqus from 'gatsby-plugin-disqus'
-import CommentCount from 'gatsby-plugin-disqus'
 
 
 
@@ -17,13 +15,13 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
   const post = data.markdownRemark
   const siteTitle = data.site.siteMetadata.title
   const { previous, next } = pageContext
-  const disqusShortname = "kimothokamau-xyz";
+  const disqusShortName = "kimothokamau-xyz"
   const disqusConfig = {
-    url: `http://www.kimothokamau.xyz$.{pathname}`,
-    // url: `${config.siteUrl+location.pathname}`,
+    // url: `http://www.kimothokamau.xyz$.{pathname}`,
+    url: 'http://www.kimothokamau.xyz' + data.markdownRemark.frontmatter.path,
     identifier: post.id,
-      title: post.frontmatter.title,
-      };
+    title: post.frontmatter.title,
+  }
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -59,9 +57,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         
         <footer>
-        <CommentCount config={disqusConfig} placeholder={'...'} />
-           <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
-        <Disqus config={disqusConfig} />
+          <DiscussionEmbed shortname={disqusShortName} config={disqusConfig} />
           <Bio />
         </footer>
         
