@@ -47,7 +47,8 @@ The current global pandemic (COVID19) makes it even more important to hold a par
 
 
 
-## Comparison of bitcoin backed USD wallet vs Forex vs Banks
+## Comparison of getting USD exposure through banks vs forex vs a virtual USD wallet
+
 
 Apart from having your wealth in USD by using the 'bitcoin-backed' virtual wallet, you can achieve the same by purchasing US dollars in a commercial bank or a Foreign Exchange Bureau.
 
@@ -57,73 +58,20 @@ I would like to compare these 3 methods using 3 key factors:
 + Process
 + Availability/convenience
 
+![comparison](./comparison.png)   
 
-### Cost -Rates/Spread
+Based on the above criteria, the virtual USD wallet is better. Since the agenda of the whole process is to potect your savings, the method that has a low spread is highly preferred. Cost is measured using spread (the % difference between the buying price and selling price). A higher spread, the higher the cost of getting in and out. The lower the spread, the lower the cost of getting in and out since it means that there is a high competition between sellers and buyers hence narrowing the spread. 
 
-The difference between the selling price and buying price of USDKES. The lower it is the better. Lower spread means there is less volatility since there is enough willing buyers and sellers competing away till the [spread](/virtualusdwallet/#Cost--RatesSpread) becomes thin.
+The virtual USD has asignificant advantage in its process and accessibility because all transactions are online, requiring no physical human interaction.
 
-   + **Banks:** 
-        + Very high. On April 3rd 2020, one of the local banks was selling the dollar at 109, while buying at 99. That is a 99/109 * 100 = **10.10%**
-        + If you buy dollars at a bank today, if you want to sell them the next day, you will make a 10% loss of your money. For you to sell the dollars at a profit you would have to wait for the shilling to increase considerably for you to just break even
-        + The non $100 notes are shunned and are bought below market rate
-   + **Forex**
-        + High. On April 3rd 2020, one local forex bureau was selling dollar at 107, while buying at 100. That is a 7/100 * 100 = **7%**
-        + If you bought dollars at a forex bureau today, if you want to sell them the next day, you will make a 7% loss on your money. The dollar needs to rise by more than 7% for you to breakeven.
-        + The non $100 notes are shunned and are bought below market rate
-   + **Bitcoin**
-        + Low. On April 3rd 2020, the cheapest bitcoin seller was selling at a rate of ksh. 764,000 per bitcoin while the highest buyer was buying at 752,000. Spread was (764000-752000) /752000 * 100 = **1.6%** 
+>With the global pandemic of COVID19, financial transactions that require physical cash or close human interaction should be avoided if possible or done very cautiously
 
-### Process of getting dollar exposure and getting back to KSH
-
-This criteria looks at the steps it takes to get dollar exposure and back to KSH  
-+ **Banks:**
-    +  Open USD and KSH accounts in a bank, activate online banking for both of them. Do forex between the two accounts
-    +  Withdraw ksh in one bank account, and buy USD Over the Counter(OTC) at same bank, or walk in different bank (may be with lower USDKSH rate) and buy there Over The Counter
-+ **Forex:**
-    +  Walk in with local currency cash and buy physical dollars
-    +  Require national ID or passport
-
-- **Bitcoin:**
-    +  Open accounts at bitcoin exchanges
-    +  Buy bitcoin ,tether(USDT) using exchange interface
-    +  Online transactions
-
-
-### Availability
-
-A measure of convenience:
-
-+ **Banks:**
-    +  Online banking works 24/7. But you will use the provided rate which has 9-11% spread
-    +  If you want a better rate it has to be within working hours so that you speak to a treasury bank staff to negotiate a better rate
-    +  Other option is to walk in the banking hall within working hours
-
-+ **Forex**
-    + The least convenient. Most work within working hours
-    + Cash only
-    + No online option. You need to be there
-    + They have not yet solved the virtual/wallet/online problem yet
-
-+ **Bitcoin**
-    + The most convenient
-    + Available 24/7 and 100% online
-    + No physical cash trades
-    + 24/7 access to USD wallet that you can liquidate any time
-    + Since wallets are online, it can work on any phone, or computer device
-
-        
 
 ### End to end process of moving from local currency (KSH) to bitcoin, to USD and back to local currency(KSH)
 
-I have broken down this [process](/ Open accounts at bitcoin exchanges
-        +  Buy bitcoin ,tether(USDT) using exchange interface
-        +  Online transactions) into 9 different posts. 
-        
-Post 1, 2 and 7 are done only once during initial setup. 
+I have broken down the whole process process into 9 different articles, post 1, 2 and 7 are done only once during initial setup. While  the rest are done at different times based on what you want to achieve, but some are dependent on some things to have been done earlier, for example; _you can't buy tether(USDT) without having bitcoin in the first place_ 
 
-Then the rest are done at different times based on what you want to achieve, but are dependent on some things to have been done earlier, for example; _you can't buy tether(USDT) without having bitcoin or ethereum in the first place_ 
-
-The posts are listed below in their order of operations:
+The posts are listed according to their order of operations:
 
 
 1.  Sign up for a localbitcoins account [click here](/signup-lbc)
