@@ -1,60 +1,57 @@
 ---
-title: How to open a USD wallet backed by bitcoin
+title: A Virtual USD Wallet-Backed by Bitcoin
 date: "2020-04-06T22:40:32.169Z"
 description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. For the rest of these guides, I will refer to this stablecoin as Tether(USDT). Bitcoin allows you to virtually move between your local currency and the USD with the least loss(spread). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
 ---
 ## Introduction
 
-By now you have probably heard about 'bitcoin' and despite its many advantages over other forms of assets and money everyone agrees that bitcoin is highly volatile. 
+A virtual USD wallet enables you to store US dollars in an online-wallet that you can access 24/7, and it also allows you to convert a part or all of your US dollars to your local currency anytime.
 
->But, what if you could use bitcoin without being affected by its volatility?? 
+Historically, most local currencies especially in developing countries have been losing their value to the US dollar. 
+>For example, if you had Ksh. 100,000 in the year 2000 you could have bought $1408 dollars at the USDKES rate of 71. 
 
-This series of posts show you how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether(USDT). It alllows you to virtually move between your local currency and the USD with the least loss [spread](/virtualusdwallet/#Cost--RatesSpread). 
+>If you saved the dollars till now and decided to convert back to KSH, you would get Ksh. 150,000 at the current USDKES rate of 106.5. 
 
-In the [comparison](/virtualusdwallet/#Comparison-of-bitcon-backed-USD-wallet-vs-Forex-vs-Banks) section I show why using bitcoin is the fastest, cheapest and most convenient way to get dollar exposure. Or even gold exposure! [link](/buy-gold-xaut)
+>If however you saved in KSH and wanted to buy dollars now, you would only get (100,000/106.5) 938 dollars.
 
-Bitcoin is used in the middle between your local currency USD. See flowchart below:
-
-![kshbtcusd flowchart](/kshbtcusd.png)
-
+Chart below shows how the USD has been outperforming the shilling since 1998.
 
 
-## Why you need a USD Wallet
+![usdkes22years](./usdkes22years2.jpg)
 
-During global uncertanity like the current COVID19 pandemic in 2020, it is a good idea to diversify your cash savings in USD, gold or bitcoin just incase your local currency loses value against the dollar.
+[Link](/https://www.tradingview.com/chart/?symbol=FX_IDC%3AUSDKES) to the USDKES historical chart
 
-The chart below shows the performance of the USD against the Kenya shilling since 2002. It is clear that the shilling has been losing its value against the dollar for the last 30 years. Open chart below and observe how it happened during the 2008 financial crisis and the shilling has never gone back to the 60s level ever.
-> Fyi: During president's Kibaki first term in 2002, he managed to strengthen the shilling from 80s to 60s !!
+### Why the US dollar is preferred to local currency
 
-![USD/KES 2002-2020](./usdksh 2002-2020.png)
+The main reason why the US dollar is the preferred currency to hold long-term is because it is the world's [reserve currency](/https://en.wikipedia.org/wiki/Reserve_currency). It got this status during the [Bretton Woods conference](/https://en.wikipedia.org/wiki/Bretton_Woods_system) in 1945, replacing the British Pound. The US dollar was backed with gold. Meaning you could take dollars to a bank and get gold in return.
 
-During the last global financial crisis in 2008, you can read more about it [here](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) the shilling lost 30% of its value in a span of two years (from 62 to 81).
+How is a global reserve currency used:
+- Countries borrowing and repaying debt to other countries  
+- Commercial banks hold USD to facilitate international transfers, e.g when you make a wire transfer to a different country, even if the receiver is using a different currency, the intermediary banks use USD to settle between them 
+- Central Banks hold large amounts of USD to payinternational debts and to influence the domestic exchange rate 
+- Oil trades are settled in USD etc
 
-Macroeconomics is a wide area of study with many things to consider ; Federal Reserve and Central Banks actions,  interest rates, treasury bonds yields, stock markets, oil, gold, unemployment rates etc.
+The current global pandemic (COVID19) makes it even more important to hold a part of your wealth in USD rather than local currency.
 
-However, what is clear to everyone observing the current situation is that both local and global productivity has been slowing down, several businesses have shutdown, some people have lost jobs, or experienced paycuts, rent defaults, debt defaults etc. 
-
-It is difficult to predict when the pandemic will be over and things get back to normal, or how bad the economy will be affected, especially in developing countries which might face longer lockdowns.
-
-Hence the need to spread your risk among assets that may hold their value more strongly, are **100% online** and have enough liquidity to get in and out. In my opinion that is; USD, gold and bitcoin.
-
-
+> Other safe havens to hold your wealth in are gold and bitcoin, they are discussed in my other articles [click here](/buy-gold-xaut) to know how you can buy gold, [click here](/bitcoin-introduction) to know more about bitcoin
 
 ### How the 'bitcoin-backed' USD wallet works
 
-While there are several ways of having a bitcoin-backed USD wallet, this guide will use **Tether (USDT)**:
-
-- You buy bitcoin, then use the bitcoin to buy tether. 
+- You buy bitcoin using your local currency, immediately send the bitcoin to a cryptocurrency exchange called binance and buy tether(USDT) using the bitcoin. You now have USD
 - [Tether](https://tether.to/?__cf_chl_jschl_tk__=353ac175af32529c8a92bc392f6a83ba906a0fc8-1585642069-0-AYxII_WswTRtQwiOW0UMtQqwaZnvS2KHCMDqqB5M_zgyUtQRW9UjmLafMEW1666Gr5hs7o_MmejJDCUCzq0CPJWZ3ZEJpo_dbxY0No6Q8Le379uSvm01AAHHhBnDo7mGQs2vTqvoCAZEwnbnouG6rfHb6plGg5o6cJA0zSUY3kcGptnUA2kE2IFtoH5fWLFYxr-eJsn7LoHlWVc9I7Mwg8uUAe8kOvSNR9lV2FQ4CRzZojmcSAhNtw8jChWFW_lVD8aw0AZ86DTE6g4TwBXwIuQ) is a cryptocurrency whose value is equal to the value of USD. Hence **1 Tether = 1 USD** thus 100 USDT can be redeemed for 100 USD and so forth
-- When you want to cash out some USD to your local currency, you sell the equivalent tether/USDT to bitcoin, then sell the bitcoin back to your local currency. 
-- Every country has independent traders who buy and sell bitcoin in exchange for local currency 24/7, so bitcoin -> local currency liquidity is guaranteed
+- When you want to cash out some USD to your local currency, you sell the equivalent tether to bitcoin, then sell the bitcoin back to your local currency
+- Bitcoin is used in the middle between your local currency USD. See flowchart below:
+
+![kshbtcusd flowchart](/kshbtcusd.png)
 
 
 
 
 ## Comparison of bitcoin backed USD wallet vs Forex vs Banks
 
-Three criteria are considered while comparing the best USD wallet:
+Apart from having your wealth in USD by using the 'bitcoin-backed' virtual wallet, you can achieve the same by purchasing US dollars in a commercial bank or a Foreign Exchange Bureau.
+
+I would like to compare these 3 methods using 3 key factors:
 
 + Cost
 + Process
@@ -63,7 +60,7 @@ Three criteria are considered while comparing the best USD wallet:
 
 ### Cost -Rates/Spread
 
-The difference between the selling price and buying price of USDKES. The lower it is the better. Lower spread means there is less volatility since there is enough willing buyers and sellers competing away till the spread becomes thin.
+The difference between the selling price and buying price of USDKES. The lower it is the better. Lower spread means there is less volatility since there is enough willing buyers and sellers competing away till the [spread](/virtualusdwallet/#Cost--RatesSpread) becomes thin.
 
    + **Banks:** 
         + Very high. On April 3rd 2020, one of the local banks was selling the dollar at 109, while buying at 99. That is a 99/109 * 100 = **10.10%**
