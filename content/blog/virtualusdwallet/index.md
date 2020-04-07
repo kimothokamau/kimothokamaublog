@@ -19,11 +19,11 @@ Chart below shows how the USD has been outperforming the shilling since 1998.
 
 ![usdkes22years](./usdkes22years2.jpg)
 
-[Link](/https://www.tradingview.com/chart/?symbol=FX_IDC%3AUSDKES) to the USDKES historical chart
+[Link](https://www.tradingview.com/chart/?symbol=FX_IDC%3AUSDKES) to the USDKES historical chart
 
 ### Why the US dollar is preferred to local currency
 
-The main reason why the US dollar is the preferred currency to hold long-term is because it is the world's [reserve currency](/https://en.wikipedia.org/wiki/Reserve_currency). It got this status during the [Bretton Woods conference](/https://en.wikipedia.org/wiki/Bretton_Woods_system) in 1945, replacing the British Pound. The US dollar was backed with gold. Meaning you could take dollars to a bank and get gold in return.
+The main reason why the US dollar is the preferred currency to hold long-term is because it is the world's [reserve currency](https://en.wikipedia.org/wiki/Reserve_currency). It got this status during the [Bretton Woods conference](https://en.wikipedia.org/wiki/Bretton_Woods_system) in 1945, replacing the British Pound. The US dollar was backed with gold. Meaning you could take dollars to a bank and get gold in return.
 
 How is a global reserve currency used:
 - Countries borrowing and repaying debt to other countries  
