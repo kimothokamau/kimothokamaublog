@@ -58,8 +58,8 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         
         <footer>
-          {/* <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} /> 
-          <Bio /> */}
+          {/* <Disqus.DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />  */}
+          <Bio />
           
         </footer>
         
