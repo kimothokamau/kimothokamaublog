@@ -82,4 +82,4 @@ The posts are listed according to their order of operations:
 6.  Sell Tether(USDT) to bitcoin(BTC) [click here](/sell-tether)
 7.  Enable 2 Factor Authentication for your binance account [click here](/binance-2fa)
 8.  Withdraw bitcoin from binance and send to localbitcoins [click here](sendbtc-to-lbc)
-9.  Sell the bitcoin back to your local currency [click here](/sellbtc-ksh)
+9.  Sell the bitcoin back to your local currency [click here](/sell-btc-to-ksh)
