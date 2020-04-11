@@ -1,6 +1,6 @@
 ---
 title: How to setup Two-Factor Authentication
-date: "2020-04-03T22:40:32.169Z"
+date: "2020-03-25T22:40:32.169Z"
 description: This guide demonstrates how to setup two factor authentication. This is a security feature that adds extra security to your account. Most bitcoin exchanges have a wallet for each user and since the wallets contain valuable funds, bad actors are incentivized to use advanced tactics to hack into the wallets. Adding two factor authentication (2FA) adds an extra layer of security that protects your account against hackers. 
 ---
 

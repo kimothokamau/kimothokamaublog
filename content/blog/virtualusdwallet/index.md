@@ -1,7 +1,7 @@
 ---
 title: A Virtual USD Wallet-Backed by Bitcoin
 date: "2020-04-06T22:40:32.169Z"
-description: A guide on how to have a US dollar wallet without opening a US dollar account with your bank or physical dollar notes. This USD wallet is backed by bitcoin, through a stablecoin called Tether. For the rest of these guides, I will refer to this stablecoin as Tether(USDT). Bitcoin allows you to virtually move between your local currency and the USD with the least loss(spread). Alternatives for this is buying USD at your bank, you require to hold both KSH and USD at the same bank to do this, or visit a Forex Bureau and use physical notes. The same technology can be applied to holding other assets like gold through online-only transactions.
+description: A virtual USD wallet enables you to store US dollars in an online-wallet that you can access 24/7, and it also allows you to convert a part or all of your US dollars to your local currency anytime. This guide discusses the importance of holding USD instead of local currencies in uncertain times, and compares the alternatives ways(commercial-banks and forex bureau exchanges) of getting in and out of USD.
 ---
 ## Introduction
 

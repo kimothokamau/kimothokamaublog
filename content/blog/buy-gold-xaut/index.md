@@ -6,7 +6,7 @@ description: A guide on how to have gold exposure in your portfolio. In times of
 ---
 ## Introduction
 
-Gold is highly valued due to its scarcity, and its industrial use cases value. Having been discovered by humans over 5000 years ago, humans have already mined all the low hanging gold and hence to mine extra gold requires alot of resources. This properties gives it a high value that is unlikely to drop due to oversupply.
+Gold is highly valued due to its scarcity, and its industrial use cases. Having been discovered by humans over 5000 years ago, humans have already mined all the easy to mine gold and hence it is expensive to mine extra gold. Or rather it has a high stock to flow ratio. This assured scarcity makes it a great asset to hold in times of global uncertanity.
 
 There are several ways of owning gold:
   + Buy physical gold, bought from London Bullion Markets Association
@@ -15,10 +15,14 @@ There are several ways of owning gold:
   + The ABSA GLD ETF, not so sure about it**
   + Buy XAUT/USD using bitcoin
 
-  ### How the crypto-backed gold works
+
+### How the crypto-backed gold works
 
 Each Tether Gold (XAU₮) token represents ownership of one troy fine ounce of physical gold on a specific gold bar safely held in a Switzerland vault.
 
 When you buy Tether Gold tokens, and the price of gold increases relative to the USD or your local currency, then you can sell your Tether Gold tokens at a profit.
+
+
+### Step -1
 
 

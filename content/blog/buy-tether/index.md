@@ -1,6 +1,6 @@
 ---
 title: How to buy tether(USDT)
-date: "2020-04-01T22:40:32.169Z"
+date: "2020-03-26T22:40:32.169Z"
 description: This guide demonstrates how to buy tether(USDT) using bitcoin. It first explains what is tether, its background and how it works, then goes to the steps of buying it using bitcoin.
 ---
 

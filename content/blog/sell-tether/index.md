@@ -1,6 +1,6 @@
 ---
 title: How to sell tether(USDT)
-date: "2020-04-02T22:40:32.169Z"
+date: "2020-03-27T22:40:32.169Z"
 description: This guide demonstrates how to sell tether(USDT) to buy bitcoin. Tether is pegged 1-to-1 to the US Dollar, hence if you have 100 Tether in your binance wallet, it means you have 100 USD, which you can use to buy bitcoin, then sell the bitcoin to your local currency. It also shows how you can use tether to buy bitcoin at a lower price if you think that the current price is too high and you are anticipating a drop.
 ---
 

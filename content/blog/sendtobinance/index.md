@@ -1,6 +1,6 @@
 ---
 title: Send bitcoin to binance
-date: "2020-03-31T22:40:32.169Z"
+date: "2020-03-26T12:50:32.169Z"
 description: This is a short guide that shows how to send bitcoins to binance. You may be sending bitcoins from another exchange or your wallet (mobile app, desktop app or hardware wallet). For this example I will demonstarate sending from a peer-to-peer cryptocurrency exchange called localbitcoins
 ---
 
