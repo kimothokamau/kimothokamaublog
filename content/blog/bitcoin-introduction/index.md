@@ -50,9 +50,9 @@ For example the cypherpunks and cryptoanarchy communities where bitcoin cam from
 
 ### The technical side of bitcoin
 
-If you are a programmer, then this section is perfect for you. At the core, bitcoin code is + 30000 lines of C++ code, the code is open source on github and you can access it, view it and even make a pull request to contribute your code.
+Bitcoin code is + 30000 lines of C++ code, the code is open source on github and you can access it, view it, fork it and even make a pull request for your contribution to be evaluated and merged into the bitcoin protocol if it is deemed very important.
 
-If you are curious about how bitcoin works under the hood, or would want to make APIs, or applications that interact with the bitcoin protocol, this article by Pierre Rochard is a good place to start [click here](https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09)
+If you are technically curious about how bitcoin works under the hood, want to make APIs, or applications that interact with the bitcoin protocol, this article by Pierre Rochard is a good place to start [click here](https://medium.com/@pierre_rochard/understanding-the-technical-side-of-bitcoin-2c212dd65c09)
 
 
 
