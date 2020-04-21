@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `A collection of bitcoin tutorials`,
+    title: `Bitcoin tutorials`,
     author: {
       name: `Kimotho Kamau`,
       summary: `Who writes about bitcoin and web development. Contact me at kimothokamau@gmail.com`,
@@ -24,6 +24,18 @@ module.exports = {
       options: {
         shortname: `kimothokamau-xyz`
       }
+    },
+
+    {
+      resolve: `gatsby-plugin-theme-ui`,
+      options: {}
+
+    },
+
+    {
+      resolve: `gatsby-theme-ui-blog`,
+      options: {}
+
     },
     
     {
@@ -82,8 +94,8 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-theme-ui`,
-    `gatsby-theme-ui-blog`,
+    // `gatsby-plugin-theme-ui`,
+    // `gatsby-theme-ui-blog`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {

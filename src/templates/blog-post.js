@@ -1,3 +1,5 @@
+/** @jsx jsx */
+import { jsx, Styled } from "theme-ui"
 import React from "react"
 import { Link, graphql } from "gatsby"
 
@@ -57,10 +59,6 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         
         <footer>
-<<<<<<< HEAD
-=======
-        <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
->>>>>>> 8130a473e2bfc02ea4be74dda3deb23bb7bec21b
           <Bio />
           
         </footer>
