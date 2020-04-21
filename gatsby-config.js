@@ -25,6 +25,7 @@ module.exports = {
         shortname: `kimothokamau-xyz`
       }
     },
+    
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -81,6 +82,8 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-theme-ui`,
+    `gatsby-theme-ui-blog`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
@@ -109,8 +112,5 @@ module.exports = {
         pathToConfigModule: `src/utils/typography`,
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }
