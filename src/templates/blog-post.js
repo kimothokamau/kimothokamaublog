@@ -5,21 +5,20 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
-import Disqus from 'disqus-react'
+import { Disqus, CommentCount } from 'gatsby-plugin-disqus'
+import { DiscussionEmbed } from "disqus-react";
 
-import { DiscussionEmbed, CommentCount, CommentEmbed } from 'disqus-react'  
 
 
 
 
 const BlogPostTemplate = ({ data, pageContext, location }) => {
-  const post = data.markdownRemark
-  const siteTitle = data.site.siteMetadata.title
-  const { previous, next } = pageContext
-  const disqusShortname = "kimothokamau-xyz"
+  const post = data.markdownRemark;
+  const siteTitle = data.site.siteMetadata.title;
+  const { previous, next } = pageContext;
+  const disqusShortname = "kimothokamau-xyz";
   const disqusConfig = {
-    // url: `http://www.kimothokamau.xyz$.{pathname}`,
-    url: 'http://www.kimothokamau.xyz' + data.markdownRemark.frontmatter.path,
+    url: `http://www.kimothokamau.xyz$.{pathname}`,
     identifier: post.id,
     title: post.frontmatter.title,
   }
@@ -58,6 +57,10 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         />
         
         <footer>
+<<<<<<< HEAD
+=======
+        <DiscussionEmbed shortname={disqusShortname} config={disqusConfig} />
+>>>>>>> 8130a473e2bfc02ea4be74dda3deb23bb7bec21b
           <Bio />
           
         </footer>
