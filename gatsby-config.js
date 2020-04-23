@@ -37,6 +37,13 @@ module.exports = {
       options: {}
 
     },
+
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-responsive-iframe`],
+      },
+    },
     
     {
       resolve: `gatsby-source-filesystem`,

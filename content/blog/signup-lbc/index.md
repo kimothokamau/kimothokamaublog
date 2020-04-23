@@ -17,7 +17,7 @@ This guide assumes that:
 - You have a valid phone number that you can receive a verifcation code on.
 > It is advisable to use dedicated email account for bitcoin/crypto transactions. So even if someone gets access to your main email account, the one you use for facebook, they cannot access your crypto accounts and steal your funds.
 
-> I did a video on youtube that demos how to open an email account using protonmail. [link](/https://www.youtube.com/watch?v=3vz6Hsut7cE&t=27s) 
+- I did this video that demos how to open an email account using protonmail. <iframe width="560" height="315" src="https://www.youtube.com/embed/3vz6Hsut7cE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ### The role of localbitcoins
 
