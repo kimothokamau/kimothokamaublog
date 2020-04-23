@@ -54,7 +54,7 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author.name}</strong> {author.summary}
+        A personal blog by <strong>{author.name}</strong> {author.summary} <a title="kimothokamau@gmail.com" href="mailto:kimothokamau@gmail.com">Contact me</a>
         {` `}
       </p>
     </div>

@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Bitcoin tutorials`,
     author: {
-      name: `Kimotho Kamau`,
-      summary: `Who writes about bitcoin and web development. Contact me at kimothokamau@gmail.com`,
+      name: `Kimotho Kamau.`,
+      summary: `I write about bitcoin.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
