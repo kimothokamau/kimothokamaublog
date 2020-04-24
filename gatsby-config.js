@@ -39,6 +39,12 @@ module.exports = {
     },
 
     {
+      resolve: `gatsby-plugin-dark-mode`,
+      options: {}
+
+    },
+
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [`gatsby-remark-responsive-iframe`],
@@ -121,7 +127,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/android-chrome-192x192.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
