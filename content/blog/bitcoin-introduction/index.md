@@ -7,11 +7,12 @@ description: "A compilation of resources that answers every question about bitco
 
 ### What is bitcoin
 
-Bitcoin is a product that combines aspects from different fields; mathematics, distributed systems, publick key infrastructure, cryptography, economics, game-theory & consensus in peer-to-peer networks, anthropology and history. And this is why it is mostly misunderstood.
+Bitcoin is a digital asset/property that does the following:
+- Savings tool: it has fixed total supply (21 million) 
+- The absolute scarcity makes it attractive asset for long term investors to hold
+- Payment: Bitcoin clears and settles globally within 30-60 minutes. It does micro-payments and even large transactions. Traditional systems 
 
 This [link](https://www.lopp.net/bitcoin-information.html) shows information about bitcoin grouped in different categories and you can choose anywhere to start.
-
-![lopp.net](./lopp-net.jpg)
 
 
 ### The investment case for bitcoin
@@ -24,11 +25,28 @@ If you have these questions:
  -  What is money? And what stages does money go through before it finally gets adopted by everyone?
  -  The properties that make bitcoin the best money ever in history
 
- These two articles cover all your questions:
+ These two articles cover those questions:
 
-[Pierre Rochard's medium article](https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b)
+[Bitcoin Investment Theses (Part 1)](https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b) by Pierre Rochard
 
-[Vijay Boyapati's medium article](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+[The Bullish Case for bitcoin](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1) by Vijay Boyapati
+
+
+### Bitcoin's value modelled against scarcity
+
+This is a model that predicts the price of bitcoin using scarcity, scarcity is measured by measuring the ration of new supply to the existing supply.
+
+When bitcoin started in 2009, 7200 bitcoins were being mined everyday, from 2012 this number halved to 3600, then in 2016 it halved to 1800 a day. In May 2020 it will reduce again to 900. 
+
+The new supply will continue halving until 2140....
+
+> In 2136, 0.00000168 BTC will be mined per day
+
+In this article , PLan B, models bitcoin's scarcity and compares it to other precious metals like gold and silver which have known supplies. 
+
+[Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
+
+
 
 ### The complete Satoshi
 

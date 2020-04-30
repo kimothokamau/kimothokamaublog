@@ -12,6 +12,8 @@ This is a step-by-step guide on how to open a [localbitcoins](https://localbitco
 
 This guide assumes that:
 
+- You know what bitcoin is. If not, read my article on [What is bitcoin](/bitcoin-introduction)
+
 - You have a valid email account that you can access when required
 
 - You have a valid phone number that you can receive a verifcation code on.
