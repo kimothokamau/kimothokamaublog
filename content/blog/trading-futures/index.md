@@ -1,6 +1,6 @@
 ---
 title: How to trade bitcoin futures 
-date: "2020-05-04T22:12:03.284Z"
+date: "2020-05-06T02:42:03.284Z"
 description: "An introduction to futures trading and a step-by-step guide of how to make a $1 bitcoin futures trade"
 ---
 
@@ -90,7 +90,7 @@ These other exchanges have futures but in my opinion they are better in other pr
 
 ### Signup for an account
 
-Open a [Deribit](https://www.deribit.com/reg-10345.3923)
+Click to open a [Deribit](https://www.deribit.com/reg-10345.3923)
 
 ![signup-deribit](./signup.png)
 
