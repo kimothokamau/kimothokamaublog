@@ -1,5 +1,5 @@
 ---
-title: A Virtual USD Wallet-Backed by Bitcoin
+title: A USD Wallet backed by blockchain
 date: "2020-04-06T22:40:32.169Z"
 description: A virtual USD wallet enables you to store US dollars in an online-wallet that you can access 24/7, and it also allows you to convert a part or all of your US dollars to your local currency anytime. This guide discusses the importance of holding USD instead of local currencies in uncertain times, and compares the alternatives ways(commercial-banks and forex bureau exchanges) of getting in and out of USD.
 ---
