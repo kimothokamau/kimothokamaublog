@@ -34,17 +34,35 @@ If you have these questions:
 
 ### Bitcoin's value modelled against scarcity
 
-This is a model that predicts the price of bitcoin using scarcity, scarcity is measured by measuring the ration of new supply to the existing supply.
+This is a model that predicts the price of bitcoin using scarcity (stock-to-flow). Scarcity of an asset is measured by measuring the ratio of new supply to the existing supply.
 
-When bitcoin started in 2009, 7200 bitcoins were being mined everyday, from 2012 this number halved to 3600, then in 2016 it halved to 1800 a day. In May 2020 it will reduce again to 900. 
+When bitcoin started in 2009, 7200 bitcoins were being mined everyday, from 2012 this number halved to 3600, then in 2016 it halved to 1800 a day. In May 2020 it will reduce again to 900. As the daily supply decreases, the price increases, assuming constant demand.
 
-The new supply will continue halving until 2140....
+The new supply will continue halving after every 4 years until 2140, when the last bitcoin will be mined, and miners will get paid by the transaction fees. Satoshi modelled the inflation rate to ensure that by the time the block-reward goes to zero, bitcoin will be used in so many transactions, and price of bitcoin will be too high such that the transactions costs alone will be enough to incentivize miners to continue verifying transactions and securing the network.
 
-> In 2136, 0.00000168 BTC will be mined per day
+> For perspective, in the year 2136, 0.00000168 BTC will be mined per day
 
-In this article , PLan B, models bitcoin's scarcity and compares it to other precious metals like gold and silver which have known supplies. 
+In this article , PLan B (an anonymous quant), models bitcoin's scarcity, compares it to other precious metals like gold and silver and shows that the price of an asset is tightly tied to its scarcity(stock-to-flow).
+
+![stock-to-flow](./stock-to-flow.png)
+
+From this, we can infer the following:
+- Gold is the yellow big circle. It's current stock-to-flow ratio is 62, while its total market capitalization is around $9T
+- Silver is the grey circle. It's current stock-to-flow ratio is 22, while its total market capitalization is around $150B
+- Bitcoin is the green circles. It's current stock-to-flow ratio is 25, while its total market capitalization is around $150B
+- From May 12th 2020 to 2024, bitcoin's stock to flow will be 50, putting it near gold whcih is at 62
+- The model predict's that bitcoin's market capitalization will then be more than $1T, hence putting the value of 1 bitcoin to be over $55,000
+
+
 
 [Modeling Bitcoin's Value with Scarcity](https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25)
+
+With te below new model, written on April 27th 2020, Plan B updates the prediction to one bitcoin for $288,000.
+
+He stops using time-series and adds other assets 9silver and gold) to the model which allows valuation of different assets like silver, gold, BTC with one formula.
+
+
+[Bitcoin Stock-to-Flow Cross Asset Model](https://medium.com/@100trillionUSD/bitcoin-stock-to-flow-cross-asset-model-50d260feed12)
 
 
 
