@@ -1,5 +1,5 @@
 ---
-title: How to trade bitcoin futures 
+title: How to trade bitcoin futures trading
 date: "2020-05-06T02:42:03.284Z"
 description: "An introduction to futures trading and a step-by-step guide of how to make a $1 bitcoin futures trade"
 ---
@@ -65,10 +65,13 @@ At expiry, the position of your trade is automatically closed at the current pri
 
 YOu can close the trade by selling the contracts at any time before the expiry.
 
-Unlike in margin trading, you do not pay any funding/interest.
+Unlike in margin trading, you do not pay any funding/interest but you can still use **margin** i.e trading with extra margin to be more profitable.
 
-However you can use margin/leverage and the same example applies.
+### The opportunity
 
+For example, you can buy the Dec 25th futures now, ensure you have a low liquidation price (under $5,500) this is around 2.5-3x leverage. Then keep this position open, as bitcoin price increases, buy more futures contract, you can add soem bitcoins every month and increase your position size. Then sometimes in November you can sell the contracts. 
+
+If for instance bitcoin has increased by 100% i.e from $9,000 to $18,000, then you will have made 300% in peofits, because the leverage is multiplied by the % increase in the underlying asset (BTC)
 
 ### Choosing an exchange
 
